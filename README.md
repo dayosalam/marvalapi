@@ -1,4 +1,4 @@
-#Marvel API Character Analysis
+# Marvel API Character Analysis
 
 This repository contains a project that utilizes the Marvel API to retrieve data of characters from the Marvel Universe and perform data analysis on the obtained data. The project aims to provide insights and visualizations regarding various aspects of the Marvel characters.
 
